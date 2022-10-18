@@ -1,3 +1,17 @@
+<div> 
+  <h1 align="center"> Meu profile </h1>
+<br>
+</div>
+<p align="center">
+  Me chamo Samuel Alan, tenho 20 anos e sempre gostei de computação. <br>
+  Trabalho como estagiário de desenvolvimento no Sesc Minas e amo o que faço!
+</p>
+<br>
+
+
+
+
+
 <div align="center">
   <a href="https://github.com/SamuelAlan19">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamuelAlan19&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
