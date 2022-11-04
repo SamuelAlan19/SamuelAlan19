@@ -42,6 +42,7 @@
 
    <h4>🔧 IDE</h4>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img src="https://img.shields.io/badge/Insomnia-9400D3?style=for-the-badge&logo=Insomnia&logoColor=white">
      <h4>💻OS</h4>
    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
