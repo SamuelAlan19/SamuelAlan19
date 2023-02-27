@@ -3,7 +3,7 @@
 <br>
 </div>
 <p>
-  <h3 align="center">Me chamo Samuel Alan, tenho 20 anos e sempre gostei de computação. <br>
+  <h3 align="center">Me chamo Samuel Alan, tenho 21 anos e sempre gostei de computação. <br>
   Trabalho como estagiário de desenvolvimento no Sesc Minas e amo o que faço!</h3>
 </p>
 <br>
